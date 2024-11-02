@@ -5,6 +5,12 @@
 //   background-color: var(--nord0) !important;
 // }
 [theme='dark'] {
+#zotero-tb-search {
+    background-color: var(--nord0);
+    color: white !important;
+
+}
+	
   #zotero-tb-toggle-item-pane,
   #zotero-tb-toggle-notes-pane {
     background: var(--nord1) !important;
